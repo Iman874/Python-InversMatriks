@@ -1,5 +1,3 @@
-import main
-
 def determinan(persamaanA, persamaanB, persamaanC):
     # mengambil 3 variabel masing-masing dari persamaanA, persamaanB, persamaanC
     A1, A2, A3 = persamaanA
@@ -48,6 +46,3 @@ def kofaktor(persamaanA, persamaanB, persamaanC, status):
 
 def garis():
     print("=========================================")
-
-# menjalankan fungsi pada main
-main.run_main()
