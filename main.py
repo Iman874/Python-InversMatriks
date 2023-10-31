@@ -1,4 +1,4 @@
 import function
 
-hasil = fungsi()
+hasil = function.fungsi()
 print(hasil)
